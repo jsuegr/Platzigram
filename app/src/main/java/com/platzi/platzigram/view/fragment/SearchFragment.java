@@ -1,4 +1,4 @@
-package com.platzi.platzigram.fragment;
+package com.platzi.platzigram.view.fragment;
 
 
 import android.os.Bundle;
